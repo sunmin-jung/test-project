@@ -11,6 +11,15 @@
 
 ## 사용 방법 (순서대로 따라하면 됨)
 
+### 0단계. 코드 받기
+
+터미널(명령 프롬프트 / PowerShell)을 열고:
+
+```
+git clone -b meeting-bot https://github.com/sunmin-jung/test-project.git
+cd test-project
+```
+
 ### 1단계. 화면 켜기
 
 ```
